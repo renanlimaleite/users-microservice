@@ -8,7 +8,8 @@
 5. To stop database run `docker compose stop` or with your already have makefile run `make docker/stop`
 6. Run the project `npm run dev` (dev mode)
 7. To simulate a production environment run `npm run build` then run `npm run start` (production mode)
-8. To run tests run `npm run test` (todo)
+8. To run tests run `npm run test` [TODO]
+
 
 ## Technologies used:
 - Node.js
@@ -17,7 +18,7 @@
 - Prisma
 - Zod
 - Eslint
-- Vitest (todo)
+- Vitest [TODO]
 - Docker
 - Postgres
 - dotenv
