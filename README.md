@@ -10,6 +10,7 @@
 7. To simulate a production environment run `npm run build` then run `npm run start` (production mode)
 8. To run tests run `npm run test` [TODO]
 
+
 ## Technologies used:
 - Node.js
 - Fastify
